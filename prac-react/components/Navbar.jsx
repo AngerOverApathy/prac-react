@@ -2,8 +2,9 @@ import React from 'react';
 
 function Navbar(){
     return(
-        <div>
-            <h1>My Portfolio</h1>
+        <div className='navbar'>
+            <h1>ReactFacts</h1>
+            <h2>React Course - Project 1</h2>
         </div>
     )
 }
